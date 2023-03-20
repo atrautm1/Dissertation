@@ -1,0 +1,3 @@
+num_rels,num_chems,num_genes,num_paths,total_nodes,total_edges,N_and_E,Time (ms),ratio_time_to_NE,time_to_E
+82363,989,6879,,7868,82363,90231,1372,0.015205417,0.016657965
+277278,989,6698,10685,18372,277278,295650,174323,0.589626247,0.628693946
